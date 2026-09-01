@@ -1,0 +1,92 @@
+train_number,train_name,current_station,station_index,delay_minutes,weather,speed_multiplier
+12000,New Mumbai Duronto Express,KOTA,1,29,Rainy,1.06
+12001,Mumbai New Express,KOTA,3,6,Partly Cloudy,0.89
+12002,New Mumbai Shatabdi Express,NDLS,0,19,Partly Cloudy,1.14
+12003,Mumbai New Superfast Express,RTM,1,2,Partly Cloudy,1.16
+12004,New Mumbai Express,BRC,4,4,Rainy,0.86
+12005,Mumbai New Shatabdi Express,KOTA,5,1,Clear,0.83
+12006,Mumbai New Duronto Express,KOTA,3,6,Clear,1.14
+12007,New Mumbai Rajdhani Express,NDLS,0,11,Partly Cloudy,1.18
+12008,New Chennai Rajdhani Express,JHS,1,22,Clear,0.95
+12009,Chennai New Express,HYB,1,13,Clear,0.95
+12010,New Chennai Express,HYB,2,8,Rainy,0.96
+12011,Chennai New Duronto Express,MAS,0,28,Cloudy,1.16
+12012,New Chennai Superfast Express,SUR,2,9,Partly Cloudy,1.19
+12013,New Howrah Express,NDLS,0,25,Partly Cloudy,1.06
+12014,Howrah New Rajdhani Express,CNB,3,28,Clear,0.89
+12015,New Howrah Shatabdi Express,CNB,1,22,Clear,1.0
+12016,Howrah New Shatabdi Express,CNB,2,20,Cloudy,1.03
+12017,Howrah New Express,PNBE,1,16,Rainy,1.13
+12018,New Howrah Duronto Express,LKO,1,10,Rainy,0.87
+12019,New Howrah Rajdhani Express,ALD,2,11,Clear,0.9
+12020,Sealdah New Duronto Express,SDAH,0,11,Partly Cloudy,0.84
+12021,New Sealdah Express,NDLS,0,14,Clear,1.18
+12022,Sealdah New Express,SDAH,0,10,Cloudy,1.09
+12023,New Sealdah Rajdhani Express,NDLS,0,1,Rainy,1.15
+12024,New Sealdah Duronto Express,NDLS,0,1,Clear,1.1
+12025,Howrah Barauni Express,MFP,5,5,Rainy,1.09
+12026,Barauni Howrah Express,BJU,0,20,Partly Cloudy,0.93
+12027,Barauni Howrah Shatabdi Express,BJU,0,22,Clear,0.86
+12028,Mumbai Bangalore Shatabdi Express,PUNE,2,20,Clear,1.07
+12029,Bangalore Mumbai Rajdhani Express,SUR,3,4,Cloudy,1.07
+12030,Mumbai Bangalore Express,BCT,0,7,Partly Cloudy,0.88
+12031,Bangalore Mumbai Express,PUNE,1,0,Partly Cloudy,0.92
+12032,Bangalore Mumbai Superfast Express,MYS,1,14,Clear,1.1
+12033,Bangalore Mumbai Duronto Express,SBC,0,12,Rainy,0.84
+12034,Mumbai Bangalore Rajdhani Express,AGTL,2,18,Clear,0.95
+12035,New Guwahati Express,BJU,5,9,Rainy,1.04
+12036,Guwahati New Express,SPJ,3,17,Clear,1.12
+12037,New Patna Express,CNB,1,24,Clear,1.16
+12038,Patna New Express,DDU,2,28,Clear,0.83
+12039,Patna New Superfast Express,PNBE,0,1,Clear,1.17
+12040,Patna Guwahati Duronto Express,SPJ,2,22,Cloudy,1.07
+12041,Guwahati Patna Express,MFP,4,28,Partly Cloudy,1.13
+12042,Guwahati Patna Duronto Express,NJP,1,22,Clear,0.81
+12043,Mumbai Bangalore Superfast Express,PUNE,1,23,Clear,1.1
+12044,Chennai Trivandrum Express,MAS,0,15,Rainy,1.17
+12045,Trivandrum Chennai Express,TVC,0,13,Cloudy,1.19
+12046,Chennai Trivandrum Duronto Express,MAS,0,8,Clear,0.83
+12047,Chennai Trivandrum Superfast Express,CBE,1,10,Rainy,0.95
+12048,Hyderabad Howrah Express,VSKP,2,26,Partly Cloudy,0.97
+12049,Howrah Hyderabad Rajdhani Express,VSKP,4,9,Rainy,1.1
+12050,Howrah Hyderabad Express,HWH,0,20,Clear,0.97
+12051,Chennai Visakhapatnam Rajdhani Express,NLR,2,0,Rainy,1.0
+12052,Visakhapatnam Chennai Express,NLR,2,29,Cloudy,1.07
+12053,Chennai Visakhapatnam Duronto Express,NLR,1,29,Rainy,1.19
+12054,Chennai Visakhapatnam Express,GDR,2,27,Clear,0.9
+12055,Visakhapatnam Chennai Shatabdi Express,SDAH,5,20,Clear,0.93
+12056,Mumbai Surat Express,BRC,1,26,Rainy,0.92
+12057,Surat Mumbai Shatabdi Express,BRC,2,2,Cloudy,0.9
+12058,Surat Mumbai Express,SURAT,0,5,Cloudy,0.89
+12059,Ahmedabad New Express,RTM,2,10,Partly Cloudy,0.89
+12060,New Ahmedabad Express,BRC,3,15,Cloudy,0.9
+12061,Ahmedabad New Duronto Express,ADI,0,20,Partly Cloudy,1.18
+12062,Ahmedabad New Shatabdi Express,KOTA,4,10,Rainy,1.11
+12063,Pune Chennai Duronto Express,HYB,2,24,Partly Cloudy,0.88
+12064,Chennai Pune Rajdhani Express,MAS,0,1,Clear,1.0
+12065,Pune Chennai Express,PUNE,0,22,Partly Cloudy,1.19
+12066,Chennai Pune Express,HYB,1,29,Cloudy,1.04
+12067,New Amritsar Shatabdi Express,NDLS,0,27,Partly Cloudy,0.86
+12068,Amritsar New Express,JUC,1,5,Rainy,1.01
+12069,New Amritsar Express,NDLS,0,25,Partly Cloudy,1.09
+12070,New Bhopal Duronto Express,JHS,1,28,Partly Cloudy,1.18
+12071,Bhopal New Express,GWL,1,5,Rainy,0.81
+12072,New Bhopal Express,AGC,1,16,Partly Cloudy,0.83
+12073,Bhopal New Rajdhani Express,AGC,1,16,Partly Cloudy,0.85
+12074,New Bhopal Shatabdi Express,AGC,3,26,Cloudy,1.09
+12075,Amritsar New Duronto Express,CDG,3,27,Clear,1.04
+12076,Amritsar New Rajdhani Express,LDH,3,1,Clear,0.81
+12077,Bhopal New Duronto Express,JHS,1,4,Cloudy,0.91
+12078,Mumbai Hyderabad Rajdhani Express,SUR,2,24,Rainy,1.13
+12079,Hyderabad Mumbai Express,HYB,0,4,Cloudy,0.94
+12080,Mumbai Hyderabad Superfast Express,SUR,3,4,Rainy,1.07
+12081,Hyderabad Mumbai Shatabdi Express,SUR,2,29,Clear,0.91
+12082,Howrah Visakhapatnam Express,BBS,2,25,Rainy,1.13
+12083,Visakhapatnam Howrah Express,KGP,3,15,Rainy,1.02
+12084,Visakhapatnam Howrah Rajdhani Express,VSKP,0,18,Cloudy,0.84
+12085,Howrah Visakhapatnam Superfast Express,NDLS,2,15,Cloudy,1.18
+12086,Visakhapatnam Howrah Shatabdi Express,VSKP,0,3,Rainy,1.06
+12087,Visakhapatnam Mumbai Express,HYB,2,24,Partly Cloudy,1.03
+12088,Mumbai Visakhapatnam Express,PUNE,1,13,Cloudy,1.01
+12089,Visakhapatnam Mumbai Shatabdi Express,HYB,1,25,Clear,1.2
+12090,Mumbai Visakhapatnam Shatabdi Express,BCT,0,8,Cloudy,0.88
